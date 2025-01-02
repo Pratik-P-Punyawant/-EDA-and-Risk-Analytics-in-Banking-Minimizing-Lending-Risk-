@@ -18,4 +18,4 @@ Cancellation: The client withdraws the application, possibly due to altered pref
 
 Refusal: The company denies the loan, often due to client inadequacie s.
 
-Unused Offer: The client cancels the loan at various stages. This case study employs Exploratory Data Analysis (EDA) to discern the impact of consumer and loan attributes on default tendencies. ies.
+Unused Offer: The client cancels the loan at various stages. This case study employs Exploratory Data Analysis (EDA) to discern the impact of consumer and loan attributes on default tendencies.
